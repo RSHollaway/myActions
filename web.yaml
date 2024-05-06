@@ -1,3 +1,4 @@
+---
 name: react-static-website
 runtime: yaml
 description: Example of deploying React with Pulumi
